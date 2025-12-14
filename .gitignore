@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Machine Learning models (optional)
+*.pth
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
